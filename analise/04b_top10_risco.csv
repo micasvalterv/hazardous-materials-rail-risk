@@ -1,0 +1,11 @@
+tipo_produto,onu,classe,codigo_pior,risco_agua,intensificado,risco_explosao,raio_min,raio_max,raio_inc,raio_evac,risco_indice_max,risco_indice_medio,nr_transportes,quantidade_kg
+Fosforeto de aluminio,1397,4.3,X462,True,False,True,50,600.0,800,800.0,0.8027,0.8027,1,5930.0
+Metilacetileno e propadieno em mistura estabilizada,1060,2,239,False,False,True,100,800.0,1600,1600.0,0.7994,0.7994,1,21470.0
+Acetato de vinilo estabilizado,1301,3,339,False,True,True,50,300.0,800,800.0,0.7721,0.57635,4,72000.0
+Etildiclorossilano,1183,4.3,X338,True,True,True,50,,800,800.0,0.7663,0.7663,1,8370.0
+Alquifenois liquidos,3145,8,88,False,True,True,50,800.0,800,800.0,0.7595,0.5811857142857143,7,84000.0
+Liquido inorganico corrosivo acido n.s.a.,3264,8,88,False,True,True,50,,800,800.0,0.7531,0.6382181818181819,12,179171.0
+Liquido corrosivo n.s.a.,1760,8,88,False,True,True,50,,800,800.0,0.7497,0.6680297297297297,37,393002.0
+Liquido corrosivo toxico n.s.a.,2922,8,86,False,True,True,50,,800,800.0,0.7479,0.6294,3,25920.0
+Aminas liquidas corrosivas n.s.a.,2735,8,88,False,True,True,50,,800,800.0,0.7462,0.62191,10,68702.0
+Metanol,1230,3,336,False,True,True,50,,800,800.0,0.7444,0.6546,2,22010.0

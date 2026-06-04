@@ -1,0 +1,11 @@
+tipo_produto,onu,classe,codigo_pior,risco_agua,intensificado,risco_explosao,raio_min,raio_max,raio_inc,raio_evac,risco_indice_max,risco_indice_medio,nr_transportes,quantidade_kg
+Tintas ou materias aparentadas as tintas,1263,3,33,False,True,True,50,300.0,800,800.0,0.6877,0.5884372093023256,358,4260675.0
+Adesivos contendo um liquido inflamavel,1133,3,33,False,True,True,100,300.0,800,800.0,0.6757,0.5951469613259668,186,2015989.0
+Aerossois,1950,2,26,False,False,True,100,500.0,800,800.0,0.715,0.5767821428571429,171,2738463.0
+Resina em solucao,1866,3,33,False,True,True,50,300.0,800,800.0,0.6609,0.5800974576271186,122,856677.0
+Diisocianato de toluileno,2078,6.1,60,False,False,True,50,,800,800.0,0.5387,0.5033855932203389,118,2452339.0
+Materia perigosa do ponto de vista do ambiente liquida n.s.a,3082,9,90,False,False,True,50,,800,800.0,0.5301,0.3976130434782608,92,420954.0
+Liquido inflamavel n.s.a.,1993,3,33,False,True,True,50,300.0,800,800.0,0.661,0.5730511627906977,89,566933.0
+Argon liquido refrigerado,1951,2,22,False,True,True,100,100.0,800,800.0,0.6864,0.5739540540540541,76,1538310.0
+Materia perigosa do ponto de vista do ambiente solida n.s.a.,3077,9,90,False,False,True,50,,800,800.0,0.5391,0.47121964285714285,60,372609.0
+Nitrobenzeno,1662,6.1,60,False,False,True,50,,800,800.0,0.5872,0.5375599999999999,60,3805648.0

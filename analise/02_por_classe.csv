@@ -1,0 +1,14 @@
+CLASSE_DESC,nr_registos,viagens,quantidade_kg,risco_medio,risco_max,pct_registos
+3 — Líquidos inflamáveis,1120,788,12704403.0,0.5729424884792627,0.7721,43.8
+2 — Gases,407,383,6512654.0,0.54771975,0.7994,15.9
+8 — Matérias corrosivas,329,278,5423869.0,0.52501,0.7595,12.9
+6.1 — Matérias tóxicas,318,307,8517424.0,0.5069926517571886,0.6495,12.4
+9 — Matérias e objetos perigosos diversos,215,213,2935389.0,0.4513947619047619,0.7415,8.4
+5.1 — Matérias comburentes,98,77,1913713.0,0.46351546391752574,0.7123,3.8
+4.1 — Sólidos inflamáveis,47,47,844490.0,0.5013382978723404,0.5389,1.8
+4.3 — Em contacto c/ água libertam gases inflamáveis,9,9,371784.0,0.7315,0.8027,0.4
+"2.2 — Gases não inflamáveis, não tóxicos",8,6,127477.0,0.5554625,0.6619,0.3
+1 — Explosivos,1,1,51520.0,0.6754,0.6754,0.0
+2.1 — Gases inflamáveis,1,1,161.0,0.5963,0.5963,0.0
+5.2 — Peróxidos orgânicos,1,1,300.0,0.5997,0.5997,0.0
+N/D — N/D,1,1,18270.0,0.5178,0.5178,0.0
